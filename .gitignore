@@ -106,6 +106,7 @@ venv.bak/
 
 # directorio de prueba
 prueba/
+demo-rest/
 demo/
 nuevo/
 experimental/
@@ -115,4 +116,4 @@ webroot/
 
 contrasena.txt
 *.tar
-
+*.zip
